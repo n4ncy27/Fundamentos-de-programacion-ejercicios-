@@ -1,2 +1,3 @@
 # Fundamentos-de-programacion-ejercicios-
 En este repositorio se reflejan ejercicios realizados en la materia de fundamentos de programación, con el lenguaje de Python. 
+los ejercicios corresponden de prácticas realizadas en clase y por fuera de ella de “Fundamentos de Programación”   en la Universidad Industrial de Santander sede Socorro, esta clase es orientada por el docente "Néstor Páez" están escritos en el lenguaje de programación Python, utilizando el editor de texto Visual Studio Code, y la herramienta .drawio para generar los diagramas de flujo, además se podrá visualizar diversos ejercicios relacionados con nuestra vida cotidiana.
